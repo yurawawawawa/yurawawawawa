@@ -105,17 +105,6 @@ I believe creativity makes technology more human.
 
 ---
 
-
-## 🎵 Spotify Now Playing
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=4ww233t0zbzq15dhidbnc0e68&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=4ww233t0zbzq15dhidbnc0e68&redirect=true)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
