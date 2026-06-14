@@ -105,23 +105,12 @@ I believe creativity makes technology more human.
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yurawawawawa&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurawawawawa&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## 🎵 Spotify Now Playing
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=4ww233t0zbzq15dhidbnc0e68&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=4ww233t0zbzq15dhidbnc0e68&redirect=true)
 
 </div>
 
