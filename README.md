@@ -72,7 +72,6 @@ Features:
 ### 🌍 AeroCast Air Quality Platform
 Machine learning-powered air quality prediction platform using:
 - XGBoost
-- Streamlit
 - WAQI API
 
 Focused on environmental monitoring and real-time air quality insights.
