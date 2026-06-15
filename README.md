@@ -46,7 +46,7 @@ I love creating things that feel alive, useful, and meaningful — especially pr
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,git,html,css,js,react,nextjs,tailwind,streamlit,vscode,netbeans,laravel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nextjs,nodejs,react,postgres,mysql,java,cpp,python" />
 
 </div>
 
