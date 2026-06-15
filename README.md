@@ -2,7 +2,7 @@
 
 # Hey, I'm Arga Yura!
 
-### Informatics Student • Creative Developer • ML Enthusiast • Product Builder
+### Computer Science Student • Creative Developer • Tech Bro • Product Builder
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Creative+Coder+from+Indonesia;Building+Interactive+Products+%26+Experiences;Web+Developer+%7C+AI+Enthusiast;Tech+%2B+Creativity+is+my+playground" alt="Typing SVG" />
 
