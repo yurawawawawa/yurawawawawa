@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Arga 👋
+# Hey, I'm Arga Yura!
 
 ### Informatics Student • Creative Developer • ML Enthusiast • Product Builder
 
@@ -11,10 +11,7 @@
 </div>
 
 ---
-
-## 🚀 About Me
-
-I'm an Informatics student at Diponegoro University who loves blending **technology, creativity, and problem solving** into real products people can actually use.
+Hi, my name is Arga Yura. I'm an Informatics student at Diponegoro University who loves blending **technology, creativity, and problem solving** into real products people can actually use.
 
 I enjoy building:
 - 🌐 Interactive web apps
@@ -32,13 +29,12 @@ I love creating things that feel alive, useful, and meaningful — especially pr
 
 ---
 
-## 🧠 Current Focus
-
-- 🔭 Building real-world digital products
-- 🌱 Learning Backend Engineering & Cloud
-- 🤖 Exploring AI implementation for web apps
-- 🚀 Growing as a Fullstack Developer
-- 💡 Developing startup & product-building mindset
+## Current Focus
+- Building real-world digital products
+- Learning Backend Engineering & Cloud
+- Exploring AI implementation for web apps
+- Growing as a Fullstack Developer
+- Developing startup & product-building mindset
 
 ---
 
