@@ -98,9 +98,7 @@ Outside tech, I also enjoy:
 - 📸 Photography
 - 🎸 Music & Guitar
 - 🧠 Creative Coding
-- 🏋️ Gym & Self Growth
-
-I believe creativity makes technology more human.
+- 🏋️ Self Growth
 
 ---
 
