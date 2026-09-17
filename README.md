@@ -42,7 +42,11 @@ I love creating things that feel alive, useful, and meaningful — especially pr
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nextjs,nodejs,react,postgres,mysql,java,cpp,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nextjs,nodejs,react,vue,laravel,postgres,mysql,java,cpp,python" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
 </div>
 
